@@ -1,8 +1,8 @@
 # Web-project
-Overview
+Overview : 
 This Tourist Web Application is a comprehensive platform designed to enhance the experience of tourists seeking to explore various tour packages and book their travels online. It also provides tour operators and administrators with powerful tools to manage bookings and respond to user queries effectively. The application leverages modern web technologies including HTML, CSS, JavaScript, PHP, and MySQL to deliver a dynamic and responsive user experience.
 
-Features
+Features : 
 User Registration and Authentication: Secure user sign-up and login functionalities.
 Tour Package Browsing: Browse, search, and filter through various tour packages.
 Booking System: Real-time booking with secure payment processing.
