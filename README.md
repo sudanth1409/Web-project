@@ -13,3 +13,5 @@ Responsive Design: Accessible on desktops, tablets, and mobile devices.
 Notifications: Automated email and SMS notifications for booking confirmations and updates.
 Security: Strong security measures to protect user data and transactions.
 Multi-Language Support: Option to offer the website in multiple languages.
+
+We also attached our project report. 
